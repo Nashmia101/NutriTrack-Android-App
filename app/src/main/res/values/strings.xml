@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nashmia_34091904</string>
+    <string name="title_activity_screen2">Screen_2</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_questionaire">QuestionaireActivity</string>
+    <string name="title_activity_score">ScoreActivity</string>
+    <string name="title_activity_user_register">UserRegisterActivity</string>
+    <string name="title_activity_clinician_login">ClinicianLoginActivity</string>
+    <string name="title_activity_clinician_dashboard">ClinicianDashboardActivity</string>
+</resources>
